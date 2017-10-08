@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:3:5-58
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -57,12 +57,12 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zain
 		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:13:9-45
 	android:theme
 		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:15:9-40
-activity#com.example.hansa.listinstalledapplications.AllAppsActivity
+activity#com.example.hansa.finalproject.AllAppsActivity
 ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:label
 		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:17:13-87
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:17:13-74
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN

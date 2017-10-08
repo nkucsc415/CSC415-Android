@@ -1,4 +1,4 @@
-package com.example.hansa.listinstalledapplications;
+package com.example.hansa.finalproject;
 
 
 import java.util.List;

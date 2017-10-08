@@ -1,4 +1,4 @@
-package com.example.hansa.listinstalledapplications;
+package com.example.hansa.finalproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
