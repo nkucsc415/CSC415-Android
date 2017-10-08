@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name"><b><i>ListaSnop</i></b></string>
+    <string name="about_title">Falcon Chutiyas</string>
+    <string name="about_desc">Hello World</string>
+    <string name="action_about">About</string>
 </resources>
