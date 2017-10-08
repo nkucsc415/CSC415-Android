@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/res/layout-v21/notification_template_icon_group.xml"
     }
 ]

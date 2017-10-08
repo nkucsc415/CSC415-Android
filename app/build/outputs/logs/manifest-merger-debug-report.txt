@@ -1,87 +1,89 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-application
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\c990cfb085f174ca8ba6892aa0cd2c7e13d2800b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\97a819866058706387e2943826999e328e7756f3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\06d366ed20e85efc07c1511fcec37118bb215e5e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\ee60b6082822523e533c9c18a2f800830a221b62\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\3defff82b34661e1fad1116cd2252643c25ce022\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\40218a6e9879cb56b0e46d3e2ef2158d854fa8e5\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\6359f0183324d765377e107c70cb98597d043e57\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\9ce079d3def27270462a2fc99bc4bc6588ccdb7f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hansa\.android\build-cache\7c7223e456a879233208c9b8187f24c0056209ab\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:8:9-41
-	android:supportsRtl
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:10:9-35
-	android:roundIcon
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:6:9-35
-	android:icon
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:7:9-43
-	android:theme
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.hansa.finalproject.AllAppsActivity
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:12:9-18:20
-	android:name
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:12:19-50
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:13:13-17:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:14:17-69
-	android:name
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:14:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:16:17-77
-	android:name
-		ADDED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\c990cfb085f174ca8ba6892aa0cd2c7e13d2800b\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\97a819866058706387e2943826999e328e7756f3\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\06d366ed20e85efc07c1511fcec37118bb215e5e\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\ee60b6082822523e533c9c18a2f800830a221b62\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\3defff82b34661e1fad1116cd2252643c25ce022\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\40218a6e9879cb56b0e46d3e2ef2158d854fa8e5\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\6359f0183324d765377e107c70cb98597d043e57\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\9ce079d3def27270462a2fc99bc4bc6588ccdb7f\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hansa\.android\build-cache\7c7223e456a879233208c9b8187f24c0056209ab\output\AndroidManifest.xml:5:5-7:41
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b953dfccd2f30e031c085fe2660ddf76ad4b1cfc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/7b540a15e2cd15213570bfcc9d5d23791fd2faa2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zainraza/.android/build-cache/0b5d22f9e0c12005b768557f35f3c9157fd76f57/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zainraza/.android/build-cache/cce43670d9f54d67153a2580fa95827cea03e435/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zainraza/.android/build-cache/01409683689ee75b2f48fb57d09be5d0ed6f2262/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/23546319f2717fb78cddce0a82691887858c11e8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b1dc96b6da15c38e9009b07b179dcdb05954291b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/509f49fe48b49fbe44859c56977054970a899392/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zainraza/.android/build-cache/66518b003e85830191de7e00a2d2af15263a7929/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hansa\AndroidStudioProjects\FinalProject\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\c990cfb085f174ca8ba6892aa0cd2c7e13d2800b\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\97a819866058706387e2943826999e328e7756f3\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\06d366ed20e85efc07c1511fcec37118bb215e5e\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\ee60b6082822523e533c9c18a2f800830a221b62\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\3defff82b34661e1fad1116cd2252643c25ce022\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\40218a6e9879cb56b0e46d3e2ef2158d854fa8e5\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\6359f0183324d765377e107c70cb98597d043e57\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\9ce079d3def27270462a2fc99bc4bc6588ccdb7f\output\AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:27:9-38
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b953dfccd2f30e031c085fe2660ddf76ad4b1cfc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/7b540a15e2cd15213570bfcc9d5d23791fd2faa2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zainraza/.android/build-cache/0b5d22f9e0c12005b768557f35f3c9157fd76f57/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zainraza/.android/build-cache/cce43670d9f54d67153a2580fa95827cea03e435/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zainraza/.android/build-cache/01409683689ee75b2f48fb57d09be5d0ed6f2262/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/23546319f2717fb78cddce0a82691887858c11e8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b1dc96b6da15c38e9009b07b179dcdb05954291b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/509f49fe48b49fbe44859c56977054970a899392/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zainraza/.android/build-cache/66518b003e85830191de7e00a2d2af15263a7929/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.hansa.listinstalledapplications.AllAppsActivity
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\hansa\.android\build-cache\e58a09a7cedeb3d048dd5d544603d592ec46aad4\output\AndroidManifest.xml:26:9-47
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:17:13-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b953dfccd2f30e031c085fe2660ddf76ad4b1cfc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/7b540a15e2cd15213570bfcc9d5d23791fd2faa2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zainraza/.android/build-cache/0b5d22f9e0c12005b768557f35f3c9157fd76f57/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zainraza/.android/build-cache/cce43670d9f54d67153a2580fa95827cea03e435/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zainraza/.android/build-cache/01409683689ee75b2f48fb57d09be5d0ed6f2262/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/23546319f2717fb78cddce0a82691887858c11e8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zainraza/.android/build-cache/b1dc96b6da15c38e9009b07b179dcdb05954291b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zainraza/.android/build-cache/509f49fe48b49fbe44859c56977054970a899392/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zainraza/.android/build-cache/ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab/output/AndroidManifest.xml:26:9-47
