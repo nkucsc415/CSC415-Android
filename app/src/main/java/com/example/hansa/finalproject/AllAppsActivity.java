@@ -70,7 +70,7 @@ public class AllAppsActivity extends ListActivity {
 
         builder.setPositiveButton("Know More", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://javatechig.com"));
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/nkucsc415/CSC415-Android.git"));
                 startActivity(browserIntent);
                 dialog.cancel();
             }

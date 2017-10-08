@@ -54,7 +54,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zain
 	android:allowBackup
 		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:13:9-43
 	android:theme
 		ADDED from /Users/zainraza/Desktop/Fall 2017/CSC 415/Final Project/CSC415-Android/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.hansa.finalproject.AllAppsActivity
