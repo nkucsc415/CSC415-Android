@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -25,6 +26,8 @@
     },
     {
         "outputFile": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+=======
+>>>>>>> dhz_branch
         "map": [
             {
                 "to": {
@@ -36,6 +39,30 @@
                 },
                 "from": {
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

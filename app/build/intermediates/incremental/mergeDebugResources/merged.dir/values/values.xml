@@ -116,6 +116,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+<<<<<<< HEAD
     <color name="colorAccent">#c340ff</color>
     <color name="colorPrimary">#8f2448</color>
     <color name="colorPrimaryDark">#a64279</color>
@@ -131,6 +132,9 @@
     <color name="design_snackbar_background_color">#323232</color>
     <color name="design_textinput_error_color_dark">#FFFF6E6E</color>
     <color name="design_textinput_error_color_light">#FFD50000</color>
+=======
+    <color name="colorPrimary">#ffffff</color>
+>>>>>>> dhz_branch
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -554,6 +558,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+<<<<<<< HEAD
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
     <dimen name="design_bottom_navigation_active_text_size">14sp</dimen>
@@ -592,6 +597,9 @@
     <dimen name="design_tab_scrollable_min_width">72dp</dimen>
     <dimen name="design_tab_text_size">14sp</dimen>
     <dimen name="design_tab_text_size_2line">12sp</dimen>
+=======
+    <dimen name="activity_vertical_margin">16dp</dimen>
+>>>>>>> dhz_branch
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
@@ -676,6 +684,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+<<<<<<< HEAD
     <string name="app_name"><b><i>ListaSnop</i></b></string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
@@ -685,12 +694,19 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+=======
+    <string name="about_desc">Hello world</string>
+    <string name="about_title">Powered by Falcon</string>
+    <string name="action_about">About</string>
+    <string name="app_name"><b>ListaSnop</b></string>
+>>>>>>> dhz_branch
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+<<<<<<< HEAD
     <style name="Animation.Design.BottomSheetDialog" parent="Animation.AppCompat.Dialog">
         <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
@@ -702,6 +718,23 @@
         <item name="colorAccent">@color/colorAccent</item>
 
 
+=======
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+
+
+
+
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+>>>>>>> dhz_branch
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>

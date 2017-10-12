@@ -1,9 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\d2a69d51d72ab1e850a6eb2b50108c7ec9108b5e\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
@@ -46,5 +51,29 @@
     {
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\d2a69d51d72ab1e850a6eb2b50108c7ec9108b5e\\output\\res\\drawable-v21\\avd_hide_password.xml"
+=======
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+>>>>>>> dhz_branch
     }
 ]

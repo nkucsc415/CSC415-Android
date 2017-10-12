@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+        "outputFile": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
         "map": [
             {
                 "to": {
@@ -404,7 +404,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+=======
+        "outputFile": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
         "map": [
             {
                 "to": {
@@ -415,7 +419,11 @@
                     "endOffset": 170
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -434,7 +442,11 @@
                     "endOffset": 278
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -453,7 +465,11 @@
                     "endOffset": 401
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -472,7 +488,11 @@
                     "endOffset": 510
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -491,7 +511,11 @@
                     "endOffset": 618
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -510,7 +534,11 @@
                     "endOffset": 703
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -529,7 +557,11 @@
                     "endOffset": 804
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -548,7 +580,11 @@
                     "endOffset": 927
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -567,7 +603,11 @@
                     "endOffset": 1012
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -586,7 +626,11 @@
                     "endOffset": 1094
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -605,7 +649,11 @@
                     "endOffset": 1176
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -624,7 +672,11 @@
                     "endOffset": 1288
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -639,17 +691,30 @@
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 1293,
+<<<<<<< HEAD
                     "endColumn": 111,
                     "endOffset": 1400
                 },
                 "from": {
                     "file": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "endColumn": 99,
+                    "endOffset": 1388
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+>>>>>>> dhz_branch
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
                         "startOffset": 1293,
+<<<<<<< HEAD
                         "endColumn": 111,
                         "endOffset": 1400
+=======
+                        "endColumn": 99,
+                        "endOffset": 1388
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -657,6 +722,7 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1405,
                     "endColumn": 100,
                     "endOffset": 1501
@@ -669,6 +735,20 @@
                         "startOffset": 1405,
                         "endColumn": 100,
                         "endOffset": 1501
+=======
+                    "startOffset": 1393,
+                    "endColumn": 100,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 100,
+                        "endOffset": 1489
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -676,6 +756,7 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1506,
                     "endColumn": 107,
                     "endOffset": 1609
@@ -688,6 +769,20 @@
                         "startOffset": 1506,
                         "endColumn": 107,
                         "endOffset": 1609
+=======
+                    "startOffset": 1494,
+                    "endColumn": 107,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 107,
+                        "endOffset": 1597
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -695,6 +790,7 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1614,
                     "endColumn": 106,
                     "endOffset": 1716
@@ -707,6 +803,20 @@
                         "startOffset": 1614,
                         "endColumn": 106,
                         "endOffset": 1716
+=======
+                    "startOffset": 1602,
+                    "endColumn": 106,
+                    "endOffset": 1704
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 106,
+                        "endOffset": 1704
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -714,6 +824,7 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1721,
                     "endColumn": 106,
                     "endOffset": 1823
@@ -726,6 +837,20 @@
                         "startOffset": 1721,
                         "endColumn": 106,
                         "endOffset": 1823
+=======
+                    "startOffset": 1709,
+                    "endColumn": 106,
+                    "endOffset": 1811
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 106,
+                        "endOffset": 1811
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -733,6 +858,7 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1828,
                     "endColumn": 121,
                     "endOffset": 1945
@@ -745,6 +871,20 @@
                         "startOffset": 1828,
                         "endColumn": 121,
                         "endOffset": 1945
+=======
+                    "startOffset": 1816,
+                    "endColumn": 121,
+                    "endOffset": 1933
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1816,
+                        "endColumn": 121,
+                        "endOffset": 1933
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -752,6 +892,7 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1950,
                     "endColumn": 99,
                     "endOffset": 2045
@@ -764,6 +905,20 @@
                         "startOffset": 1950,
                         "endColumn": 99,
                         "endOffset": 2045
+=======
+                    "startOffset": 1938,
+                    "endColumn": 99,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1938,
+                        "endColumn": 99,
+                        "endOffset": 2033
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -771,6 +926,7 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 2050,
                     "endColumn": 81,
                     "endOffset": 2127
@@ -783,6 +939,20 @@
                         "startOffset": 2050,
                         "endColumn": 81,
                         "endOffset": 2127
+=======
+                    "startOffset": 2038,
+                    "endColumn": 81,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2038,
+                        "endColumn": 81,
+                        "endOffset": 2115
+>>>>>>> dhz_branch
                     }
                 }
             },
@@ -790,6 +960,7 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 2132,
                     "endColumn": 100,
                     "endOffset": 2228
@@ -802,6 +973,20 @@
                         "startOffset": 2132,
                         "endColumn": 100,
                         "endOffset": 2228
+=======
+                    "startOffset": 2120,
+                    "endColumn": 100,
+                    "endOffset": 2216
+                },
+                "from": {
+                    "file": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2120,
+                        "endColumn": 100,
+                        "endOffset": 2216
+>>>>>>> dhz_branch
                     }
                 }
             }

@@ -1,9 +1,8 @@
 package com.example.hansa.finalproject;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import java.util.ArrayList;
 import java.util.List;
+
 import android.app.AlertDialog;
 import android.app.ListActivity;
 import android.app.ProgressDialog;
@@ -14,6 +13,7 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -21,12 +21,13 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.Toast;
 
-public class AllAppsActivity extends AppCompatActivity {
+public class AllAppsActivity extends ListActivity {
     private PackageManager packageManager = null;
     private List<ApplicationInfo> applist = null;
+    private ApplicationAdapter listadaptor = null;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -69,7 +70,7 @@ public class AllAppsActivity extends AppCompatActivity {
 
         builder.setPositiveButton("Know More", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://javatechig.com"));
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/nkucsc415/CSC415-Android.git"));
                 startActivity(browserIntent);
                 dialog.cancel();
             }

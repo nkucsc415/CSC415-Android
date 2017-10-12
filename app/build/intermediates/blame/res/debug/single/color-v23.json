@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\color-v23\\abc_tint_default.xml"
     },
@@ -14,24 +15,37 @@
     {
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+=======
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_spinner.xml"
+>>>>>>> dhz_branch
     },
     {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\d2a69d51d72ab1e850a6eb2b50108c7ec9108b5e\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+=======
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+>>>>>>> dhz_branch
         "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
@@ -42,20 +56,41 @@
     {
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+=======
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+>>>>>>> dhz_branch
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\FinalProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
@@ -82,5 +117,33 @@
     {
         "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\hansa\\.android\\build-cache\\9d3086a651058a0b6174e8359872857f9bddd25a\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+=======
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\zainraza\\Desktop\\Fall 2017\\CSC 415\\Final Project\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\zainraza\\.android\\build-cache\\ef37b48fd9b9c1863b36deb9b85f9b32f4e8e1ab\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\hansa\\AndroidStudioProjects\\CSC415-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\hansa\\.android\\build-cache\\e58a09a7cedeb3d048dd5d544603d592ec46aad4\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+>>>>>>> dhz_branch
     }
 ]
